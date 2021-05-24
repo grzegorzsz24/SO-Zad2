@@ -6,4 +6,10 @@ To download only basic branch you need to type "git clone -b master https://gith
 
 Then you have to change directory: "cd SO-Zad2" and type "make"
 
-To run the program you have to type "./Code2"
+To run the program you have to type:
+
+./configure
+
+make
+
+sudo make install
