@@ -13,3 +13,5 @@ To run the program you have to type:
 make
 
 sudo make install
+
+./Code2
